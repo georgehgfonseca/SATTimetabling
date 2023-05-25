@@ -1,0 +1,85 @@
+package de.preclipse.bo;
+
+import java.io.Serializable;
+
+public class Docente implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	private long id;
+	private int siape;
+	private String nome;
+	private String area;
+	private Classe[] classesMinistradas;
+	private Restricao[] restricoes;
+
+	public Docente() {
+		//just needed for xml serialisation.
+	}
+
+	public Docente(long id) {
+		this.id = id;
+	}
+	
+	public Docente(long id, int siape, String nome, String area, Classe[] classesMinistradas, Restricao[] restricoes) {
+		this.id = id;
+		this.siape = siape;
+		this.nome = nome;
+		this.area = area;
+		this.classesMinistradas = classesMinistradas;
+		this.restricoes = restricoes;
+	}
+
+	public long getID() {
+		return this.id;
+	}
+
+	public void setID(long id) {
+		this.id = id;
+	}
+
+	public int getSiape() {
+		return siape;
+	}
+
+	public void setSiape(int siape) {
+		this.siape = siape;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getArea() {
+		return area;
+	}
+
+	public void setArea(String area) {
+		this.area = area;
+	}
+
+	public Classe[] getClassesMinistradas() {
+		return classesMinistradas;
+	}
+
+	public void setClassesMinistradas(Classe[] classesMinistradas) {
+		this.classesMinistradas = classesMinistradas;
+	}
+
+	public Restricao[] getRestricoes() {
+		return restricoes;
+	}
+
+	public void setRestricoes(Restricao[] restricoes) {
+		this.restricoes = restricoes;
+	}
+
+	public String toString() {
+		String str = String.format("\t++++++++++ %d ++++++++++\n%s - %s\nDisciplinas Ministradas:\n%s\nRestrições de Horário:\n%s\n", siape, nome, area, getClassesMinistradas(), getRestricoes());
+		return str;
+	}
+
+}

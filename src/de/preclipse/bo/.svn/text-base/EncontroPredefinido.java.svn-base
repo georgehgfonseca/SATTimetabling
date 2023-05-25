@@ -1,0 +1,56 @@
+package de.preclipse.bo;
+
+import java.io.Serializable;
+
+public class EncontroPredefinido implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	private long id;
+	private Restricao restricao;
+	private String codigo;
+	private int siape;
+	
+	public EncontroPredefinido(long id) {
+		this.id = id;
+	}
+	
+	public EncontroPredefinido(long id, Restricao restricao, String codigo, int siape) {
+		this.id = id;
+		this.restricao = restricao;
+		this.codigo = codigo;
+		this.siape = siape;
+	}
+	
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public Restricao getRestricao() {
+		return restricao;
+	}
+
+	public void setRestricao(Restricao restricao) {
+		this.restricao = restricao;
+	}
+
+	public String getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
+	}
+
+	public int getSiape() {
+		return siape;
+	}
+
+	public void setSiape(int siape) {
+		this.siape = siape;
+	}
+	
+}

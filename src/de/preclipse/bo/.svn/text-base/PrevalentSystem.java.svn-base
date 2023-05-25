@@ -1,0 +1,108 @@
+package de.preclipse.bo;
+
+import java.io.Serializable;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class PrevalentSystem implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	private List<Classe> classe = new ArrayList<Classe>();
+	private long nextClasseID = 1;
+	private List<Docente> docente = new ArrayList<Docente>();
+	private long nextDocenteID = 1;
+	private List<EncontroPredefinido> encontroPredefinido = new ArrayList<EncontroPredefinido>();
+	private long nextEncontroPredefinidoID = 1;
+
+	public PrevalentSystem() {
+		super();
+	}
+
+	public List<Classe> getClasse() {
+		return classe;
+	}
+	
+	public void setClasse(List<Classe> classe) {
+		this.classe = classe;
+	}
+
+	public List<Docente> getDocente() {
+		return docente;
+	}
+
+	public void setDocente(List<Docente> docente) {
+		this.docente = docente;
+	}
+	
+	public List<EncontroPredefinido> getEncontroPredefinido() {
+		return encontroPredefinido;
+	}
+
+	public void setEncontroPredefinido(List<EncontroPredefinido> encontroPredefinido) {
+		this.encontroPredefinido = encontroPredefinido;
+	}
+
+	public Classe addClasse(String codigo, String nome, String curso, int cargaHoraria, int periodo, Restricao[] restricoes) {
+		Classe newClasse = new Classe(nextClasseID++, codigo, nome, curso, cargaHoraria, periodo, restricoes);
+		this.classe.add(newClasse);
+		return newClasse;
+	}
+
+	public Classe getClasse(String codigo) {
+		for (Iterator<Classe> i = classe.iterator(); i.hasNext(); ) {
+			Classe currentClasse = (Classe) i.next();
+			if (currentClasse.getCodigo().equals(codigo)) return currentClasse;
+		}
+		return null;
+	}
+
+	public boolean removeClasse(String codigo) {
+		for (Iterator<Classe> i = classe.iterator(); i.hasNext(); ) {
+			Classe currentClasse = (Classe) i.next();
+			if (currentClasse.getCodigo().equals(codigo)) { i.remove(); return true; } 
+		}
+		return false;
+	}
+
+	public int sizeClasse() {
+		return classe.size();
+	}
+
+	public Docente addDocente(int siape, String nome, String area, Classe[] classesMinistradas, Restricao[] restricoes) {
+		Docente newDocente = new Docente(nextDocenteID++, siape, nome, area, classesMinistradas, restricoes);
+		this.docente.add(newDocente);
+		return newDocente;
+	}
+
+	public Docente getDocente(int siape) {
+		for (Iterator<Docente> i = docente.iterator(); i.hasNext(); ) {
+			Docente currentDocente = (Docente) i.next();
+			if (currentDocente.getSiape() == siape) return currentDocente;
+		}
+		return null;
+	}
+
+	public boolean removeDocente(int siape) {
+		for (Iterator<Docente> i = docente.iterator(); i.hasNext(); ) {
+			Docente currentDocente = (Docente) i.next();
+			if (currentDocente.getSiape() == siape) { i.remove(); return true; } 
+		}
+		return false;
+	}
+
+	public int sizeDocente() {
+		return docente.size();
+	}
+
+	public EncontroPredefinido addEncontroPredefinido(Restricao restricao, String codigo, int siape) {
+		EncontroPredefinido newEncontroPredefinido = new EncontroPredefinido(nextEncontroPredefinidoID++, restricao, codigo, siape);
+		this.encontroPredefinido.add(newEncontroPredefinido);
+		return newEncontroPredefinido;
+	}
+
+	public int sizeEncontroPredefinido() {
+		return encontroPredefinido.size();
+	}
+
+}

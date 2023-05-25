@@ -1,0 +1,97 @@
+/**
+ * 
+ */
+package de.preclipse.bo;
+
+import java.io.Serializable;
+
+public class Classe implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	private long id;
+    private String codigo;
+    private String nome;
+    private String curso;
+    private int cargaHoraria;
+    private int periodo;
+    private Restricao[] restricoes;
+
+    public Classe() {
+	//just needed for xml serialisation.
+    }
+    
+	public Classe(long id) {
+		this.id = id;
+	}
+    
+    public Classe(long id, String codigo, String nome, String curso, int cargaHoraria, int periodo, Restricao[] restricoes) {
+    	this.id = id;
+    	this.codigo = codigo;
+    	this.nome = nome;
+    	this.curso = curso;
+    	this.cargaHoraria = cargaHoraria;
+    	this.periodo = periodo;
+    	this.restricoes = restricoes;
+    }
+
+    public long getID() {
+    	return this.id;
+    }
+
+    public void setID(long id) {
+    	this.id = id;
+    }
+
+    public String getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(String codigo) {
+		this.codigo = codigo;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getCurso() {
+		return curso;
+	}
+
+	public void setCurso(String curso) {
+		this.curso = curso;
+	}
+
+	public int getCargaHoraria() {
+		return cargaHoraria;
+	}
+
+	public void setCargaHoraria(int cargaHoraria) {
+		this.cargaHoraria = cargaHoraria;
+	}
+
+	public int getPeriodo() {
+		return periodo;
+	}
+
+	public void setPeriodo(int periodo) {
+		this.periodo = periodo;
+	}
+	
+	public Restricao[] getRestricoes() {
+		return restricoes;
+	}
+
+	public void setRestricoes(Restricao[] restricoes) {
+		this.restricoes = restricoes;
+	}
+
+	public String toString() {
+		String str = String.format("%s   %s   %s    %d   %d\n", codigo, nome, curso, cargaHoraria, periodo, getRestricoes());
+		return str;
+	}
+}

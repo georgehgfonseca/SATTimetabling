@@ -1,0 +1,293 @@
+PROFESSORES:
+1, XX
+2, Cristiane, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 4-8, 4-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+3, XX
+4, Marcos Goulart, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+5, Bernardo, 3-0, 3-1, 3-2, 3-3, 3-4, 5-0, 5-1, 5-2, 5-3, 5-4, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+6, XX
+7, Leonardo, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 5-5, 5-6, 5-7, 5-8, 5-9
+8, XX
+9, XX
+10, XX
+11, XX
+12, Rodrigo, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+13, XX
+14, Bruno, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+15, XX
+16, XX
+17, Flávio, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+18, XX
+19, XX
+20, Talles, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+21, Darlan, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+22, XX
+23, XX
+24, XX
+25, XX
+26, XX
+27, XX
+28, Shirley, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9
+29, Maurício
+30, XX
+31, Anliy, 2-8, 2-9, 3-8, 3-9, 4-8, 4-9, 5-8, 5-9, 6-8, 6-9
+32, XX
+33, XX
+34, Rafael Santos, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+35, XX
+36, XX
+37, Cláudio Nassif
+38, XX
+39, XX
+40, XX
+41, Carlos Pontes, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+42, XX
+43, Fabiana, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+44, Glauco
+45, Wilingthon, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+46, Herson, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9
+47, Rafael Frederico, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+48, Adam, 6-0, 6-1, 6-2, 6-3, 6-4
+49, Lucinéia, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+50, Fernando Bernardes, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9
+51, Alex Damiani, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+52, Tiago Lima, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+53, Filipe Ribeiro, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+54, Elton, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9
+55, Diego
+56, Pollyana
+57, Básico/Teleinformática
+58, Guilherme Knopp, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+59, Felipe Cota, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+60, Éden, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+61, Luciano, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+62, Vinícius
+63, Rafael Fernandes
+64, Karla, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+65, Sávio
+66, Rafael Bernardes
+67, Juan Carlos, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+68, Paula
+69, XX
+70, XX
+71, XX
+72, XX
+73, XX
+74, XX
+75, XX
+76, XX
+77, XX
+78, XX
+79, XX
+80, XX
+81, Cinthia, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+82, Eva, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+83, Fernanda, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9
+84, Gilbert, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+85, Karine, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+86, Luciana, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+87, Vaga Qualidade
+88, Maria Regina, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+89, Maurício, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+90, Milena, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 6-0, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9
+91, Mônica, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9
+92, Sérgio, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9
+93, Thiago, 3-0, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 5-0, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9
+94, Wagner, 2-0, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 4-0, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9
+
+CURSOS:
+1, 1o SI, 1
+2, 2o SI, 2
+3, 3o SI, 1
+4, 4o SI, 2
+5, 5o SI, 1
+6, 6o SI, 2
+7, 7o SI, 1
+8, 1o EP, 2
+9, 2o EP, 1
+10, 3o EP, 2
+11, 4o EP, 1
+12, 5o EP, 2
+13, 6o EP, 1
+14, 7o EP, 2
+15, 8o EP, 1
+16, 9o EP, 2
+17, 1o EE, 2
+18, 2o EE, 1
+19, 3o EE, 2
+20, 4o EE, 1
+21, 1o EC, 1
+22, 2o EC, 2
+23, 3o EC, 1
+24, 4o EC, 2
+25, 8o SI, 2
+26, 5o EE, 2
+27, 5o EC, 1
+28, EXTRA, 1
+
+CLASSES:
+1144, Teoria Geral da Administração, 1, 4, 2, 3, 50, 88
+1145, Teoria e Fundamentos de Sistemas de Informação, 1, 4, 2, 3, 50, 2
+1160, Cálculo Diferencial e Integral I, 1, 4, 2, 3, 50, 63
+1420, Matemática Discreta I, 1, 4, 2, 3, 50, 60
+1030, Programação de Computadores I, 1, 4, 2, 3, 45, 52
+1307, Estatística e Probabilidade, 2, 4, 2, 3, 50, 34
+1412, Aspectos Formais da Computação, 2, 4, 2, 3, 50, 7
+1422, Organização e Arquitetura de Computadores I, 2, 4, 2, 3, 50, 20
+1032, Programação de Computadores II, 2, 4, 2, 3, 50, 5
+1428, Algoritmos e Estrutura de Dados I, 2, 4, 2, 3, 50, 47
+1429, Algoritmos e Estrutura de Dados II, 3, 4, 2, 3, 50, 56
+1450, Interação Humano-Computador, 3, 4, 2, 3, 50, 52
+1456, Teoria e Algoritmos em Grafos, 3, 4, 2, 3, 50, 56
+1460, Gestão da Informação, 3, 4, 2, 3, 50, 49
+1473, Comportamento Organizacional, 3, 4, 2, 3, 50, 88
+1150, Economia, 4, 4, 2, 3, 50, 81
+1419, Linguagens de Programação, 4, 4, 2, 3, 50, 54
+1437, Sistemas Operacionais, 4, 4, 2, 3, 50, 51
+1440, Banco de Dados I, 4, 4, 2, 3, 50, 14
+1485, Engenharia de Software I, 4, 4, 2, 3, 50, 55
+1406, Pesquisa Operacional I, 5, 4, 2, 3, 50, 90
+1442, Banco de Dados II, 5, 4, 2, 3, 50, 14
+1457, Inteligência Artificial, 5, 4, 2, 3, 50, 17
+1459, Redes de Computadores I, 5, 4, 2, 3, 50, 51
+1486, Engenharia de Software II, 5, 4, 2, 3, 50, 55
+1433, Sistemas Distribuídos, 6, 4, 2, 3, 50, 51
+1439, Gestão da Tecnologia da Informação, 6, 4, 2, 3, 50, 49
+1469, Sistemas para WEB, 6, 4, 2, 3, 50, 50
+1487, Gerência de Config. e de Eng. de Software, 6, 4, 2, 3, 50, 52
+1995, Eletiva I, 6, 4, 2, 3, 50, 57
+1126, Gerência de Recursos Humanos, 7, 4, 2, 3, 50, 82
+1458, Metodologia de Pesquisa, 7, 2, 1, 2, 50, 57
+1472, Inteligência Computacional para Otimização, 7, 4, 2, 3, 50, 17
+1491, Informática e Sociedade, 7, 2, 1, 2, 50, 57
+1996, Eletiva II, 7, 4, 2, 3, 50, 12
+1997, Eletiva III, 7, 4, 2, 3, 50, 53
+1462, Sistemas de Apoio à Decisão, 25, 4, 2, 3, 50, 2
+1463, Segurança e Auditoria de Sistemas, 25, 4, 2, 3, 50, 53
+1493, Empreendedorismo, 25, 4, 2, 3, 50, 88
+1998, Eletiva IV, 25, 4, 2, 3, 50, 50
+1999, Eletiva V, 25, 4, 2, 3, 50, 17
+2100, Introdução à Engenharia de Produção, 8, 2, 1, 2, 50, 86
+2101, Introdução à Metodologia de Pesquisa, 8, 2, 1, 2, 50, 86
+2031, Química Geral, 8, 6, 3, 3, 50, 64
+2160, Cálculo Diferencial e Integral I, 8, 4, 2, 3, 50, 46
+2001, Geometria Analítica e Álgebra Linear, 8, 4, 2, 3, 50, 4
+2030, Programação de Computadores I, 8, 4, 1, 3, 50, 57
+2002, Responsabilidade Social Ética e sustentabilidade, 9, 4, 2, 3, 50, 81
+2301, Cálculo Diferencial e Integral II, 9, 4, 2, 3, 50, 61
+2032, Programação de Computadores II, 9, 4, 2, 3, 50, 53
+2003, Física I, 9, 4, 2, 3, 50, 37
+2004, Expressão Gráfica, 9, 4, 2, 3, 50, 89
+2005, Ergonomia, 10, 4, 2, 3, 50, 84
+2006, Cálculo Diferencial e Integral III, 10, 4, 2, 3, 50, 28
+2007, Física II, 10, 4, 2, 3, 50, 37
+2008, Mecânica Racional, 10, 4, 2, 3, 50, 66
+2009, Fundamentos de Sistemas de Informação, 10, 4, 2, 3, 50, 2
+2010, Equações Diferenciais, 11, 4, 2, 3, 50, 31
+2011, Análise Ergonômica do Trabalho, 11, 4, 2, 3, 50, 84
+2012, Probabilidade, 11, 4, 2, 3, 50, 34
+2404, Cálculo Numérico, 11, 4, 2, 3, 50, 62
+2013, Física III, 11, 4, 2, 3, 50, 48
+2014, Organização do Trabalho, 12, 4, 2, 3, 50, 83
+2015, Microeconomia, 12, 4, 2, 3, 50, 93
+2016, Resistência dos Materiais, 12, 4, 2, 3, 50, 66
+2017, Teoria das Organizações, 12, 4, 2, 3, 50, 94
+2127, Planejamento Estratégico, 12, 4, 2, 3, 50, 92
+2019, Psicologia do Trabalho, 13, 4, 2, 3, 50, 83
+2020, Estatística, 13, 4, 2, 3, 50, 87
+2021, Termodinâmica, 13, 4, 2, 3, 50, 37
+2023, Engenharia Econômica, 13, 4, 2, 3, 50, 93
+2700, Princípios de Ciências de Materiais, 13, 4, 2, 3, 50, 64
+2022, Gestão da Qualidade, 14, 4, 2, 3, 50, 87
+2024, Custos e Contabilidade, 14, 4, 2, 3, 50, 91
+2025, Gestão do Conhecimento, 14, 4, 2, 3, 50, 94
+2110, Projeto do Produto, 14, 4, 2, 3, 50, 86
+2406, Pesquisa Operacional I, 14, 4, 2, 3, 50, 90
+2119, Logística, 15, 4, 1, 3, 50, 85
+2122, Planejamento e Controle de Produção I, 15, 4, 2, 3, 50, 92
+2416, Pesquisa Operacional II, 15, 4, 1, 3, 50, 91
+2701, Engenharia de Processos Mecânicos, 15, 4, 2, 3, 50, 89
+2997, Eletiva I, 15, 4, 2, 3, 50, 81
+2027, Automação de Sistemas de Produção, 16, 4, 1, 3, 50, 58
+2028, Gestão da Cadeia de Suprimentos, 16, 4, 1, 3, 50, 85
+2123, Planejamento e Controle de Produção II, 16, 4, 2, 3, 50, 90
+2998, Eletiva II, 16, 4, 2, 3, 50, 82
+2999, Eletiva III, 16, 4, 2, 3, 50, 84
+3160, Cálculo Diferencial e Integral I, 17, 4, 1, 3, 50, 68
+3001, Geometria Analítica e Álgebra Linear, 17, 4, 2, 3, 50, 4
+3031, Química Geral, 17, 6, 3, 3, 50, 43
+3030, Programação de Computadores I, 17, 4, 2, 3, 50, 56
+3458, Metodologia de Pesquisa, 17, 2, 1, 2, 50, 59
+3202, Introdução a Engenharia Eletrica, 17, 2, 1, 2, 50, 59
+3032, Programação de Computadores II, 18, 4, 2, 3, 50, 54
+3026, Desenho Computacional, 18, 4, 2, 3, 50, 44
+3003, Física I, 18, 4, 2, 3, 50, 65
+3301, Cálculo Diferencial e Integral II, 18, 4, 2, 3, 50, 61
+3422, Organização e Arquitetura de Computadores I, 18, 4, 2, 3, 50, 21
+3006, Cálculo Diferencial e Integral III, 19, 4, 2, 3, 50, 31
+3007, Física II, 19, 4, 2, 3, 50, 41
+3008, Mecânica Racional, 19, 4, 2, 3, 50, 67
+3302, Introd. às Equações Diferenciais e Ordinárias, 19, 4, 2, 3, 50, 46
+3307, Estatística e Probabilidade, 19, 4, 2, 3, 50, 63
+3013, Física III, 20, 4, 2, 3, 50, 65
+3552, Circuitos Elétricos I (T), 20, 2, 1, 2, 50, 45
+3999, Circuitos Elétricos I (P), 20, 2, 1, 2, 50, 45
+3341, Princípios de Eletrônica Digital (T), 20, 2, 1, 2, 50, 67
+3997, Princípios de Eletrônica Digital (P), 20, 2, 1, 2, 50, 67
+3342, Métodos Matemáticos Aplicados à Eng. Elétrica, 20, 4, 2, 3, 50, 60
+3404, Cálculo Numérico, 20, 4, 2, 3, 50, 62
+3502, Eletromagnetismo, 26, 4, 2, 3, 50, 59
+3547, Introdução a Física Quântica, 26, 4, 2, 3, 50, 41
+3551, Modelagem e Análise de Sistemas Lineares, 26, 4, 2, 3, 50, 58
+3562, Sinais e Sistemas (T), 26, 2, 1, 2, 50, 68
+3995, Sinais e Sistemas (P), 26, 2, 1, 2, 50, 68
+3563, Circuitos Elétricos II (T), 26, 2, 1, 2, 50, 45
+3998, Circuitos Elétricos II (P), 26, 2, 1, 2, 50, 45
+4160, Cálculo Diferencial e Integral I, 21, 4, 2, 3, 50, 46
+4001, Geometria Analítica e Algebra Linear, 21, 4, 2, 3, 50, 62
+4031, Química Geral, 21, 6, 3, 3, 50, 43
+4030, Programação de Computadores I (Extra), 21, 4, 1, 3, 50, 21
+4458, Metodologia de Pesquisa, 21, 2, 1, 2, 50, 20
+4201, Introdução a Engenharia da Computação, 21, 2, 1, 2, 50, 20
+4032, Programação de Computadores II, 22, 4, 2, 3, 50, 5
+4428, Algoritmos e Estruturas de Dados I, 22, 4, 2, 3, 50, 47
+4003, Física I, 22, 4, 2, 3, 50, 58
+4301, Cálculo Diferencial e Integral II, 22, 4, 1, 3, 50, 63
+4420, Matemática Discreta I, 22, 4, 1, 3, 50, 34
+4006, Cálculo Diferencial e Integral III, 23, 4, 1, 3, 50, 31
+4007, Física II, 23, 4, 2, 3, 50, 66
+4307, Estatística e Probabilidade, 23, 4, 2, 3, 50, 58
+4429, Algoritmos e Estruturas de Dados II, 23, 4, 1, 3, 50, 54
+4412, Aspectos Formais da Computação, 23, 4, 2, 3, 50, 7
+4013, Física III, 24, 4, 2, 3, 50, 48
+4302, Introd. às Equações Diferenciais Ordinárias, 24, 4, 1, 3, 50, 28
+4341, Princípios de Eletrônica Digital (T), 24, 2, 1, 2, 50, 67
+4996, Princípios de Eletrônica Digital (P), 24, 2, 1, 2, 50, 67
+4552, Circuitos Elétricos I (T), 24, 2, 1, 2, 50, 45
+4999, Circuitos Elétricos I (P), 24, 2, 1, 2, 50, 45
+4419, Linguagens de Programação, 24, 4, 2, 3, 50, 12
+4203, Organização e Arquitetura de Computadores I, 27, 4, 2, 3, 50, 21
+4485, Engenharia de Software I, 27, 4, 2, 3, 50, 55
+4502, Eletromagnetismo, 27, 4, 2, 3, 50, 59
+4547, Introdução à Física Quântica, 27, 4, 2, 3, 50, 41
+4561, Eletrônica I (T), 27, 2, 1, 2, 50, 68
+4995, Eletrônica I (P), 27, 2, 1, 2, 50, 68
+
+SALAS:
+1, B204, 50
+2, B302, 50
+3, B303, 50
+4, B304, 50
+5, D202, 50
+6, D203, 50
+7, D204, 50
+8, D304, 50
+9, E203, 50
+10, E204, 50
+11, E302, 50
+12, E303, 50
+13, E304, 50
+14, Temp1, 50
+15, Temp2, 50
+16, Temp3, 50
+
+FIM.

@@ -1,0 +1,32 @@
+package de.preclipse.bo;
+
+import java.io.Serializable;
+
+public class Restricao implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	private int diaSemana;
+	private int tipo;
+	
+	public Restricao (int diaSemana, int tipo) {
+		setDiaSemana(diaSemana);
+		setTipo(tipo);
+	}
+
+	public int getDiaSemana() {
+		return diaSemana;
+	}
+
+	public void setDiaSemana(int diaSemana) {
+		this.diaSemana = diaSemana;
+	}
+
+	public int getTipo() {
+		return tipo;
+	}
+
+	public void setTipo(int tipo) {
+		this.tipo = tipo;
+	}
+
+}

@@ -1,0 +1,26 @@
+package de.preclipse.bo;
+
+import java.util.Date;
+import org.prevayler.TransactionWithQuery;
+
+public class ClasseRemoveTransaction implements TransactionWithQuery {
+
+	private static final long serialVersionUID = 1L;
+	private String codigo;
+
+	public ClasseRemoveTransaction(String codigo, String nome, String curso, 
+			int cargaHoraria, int periodo) {
+		this.codigo = codigo;
+	}
+
+	public ClasseRemoveTransaction() {
+		//default constructor needed for xml serialisation
+	}
+
+	public Object executeAndQuery(Object prevalentSystem, Date executionTime)
+	throws Exception {
+		((PrevalentSystem)prevalentSystem).removeClasse(codigo);
+		return null;
+	}
+
+}

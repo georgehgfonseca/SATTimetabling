@@ -1,0 +1,224 @@
+PROFESSORES:
+1, Substituto-Rita
+2, Cristiane
+3, P9
+4, Marcos Goulart
+5, Bernardo
+6, P7
+7, Leonardo
+8, P25
+9, Geiza
+10, P24
+11, Mônica
+12, Rodrigo
+13, P5
+14, Bruno
+15, P10
+16, Milena
+17, Flávio
+18, P1
+19, P11
+20, Tales
+21, Darlan
+22, P23
+23, Karine
+24, P22
+25, P4
+26, P8
+27, vaga_Ambiental
+28, Shirley
+29, Maurício
+30, Fernanda
+31, Anliy
+32, P3
+33, P6
+34, Rafael Santos
+35, Gilbert
+36, P21
+37, Cláudio Nassif
+38, Thiago
+39, Wagner
+40, Sérgio
+41, Carlos Pontes
+42, P2
+43, Fabiana
+44, Glauco
+45, Wilingthon
+46, Herson
+47, Rafael Frederico
+48, Adam
+
+CURSOS:
+1, 1o SI, 2
+2, 2o SI, 1
+3, 3o SI, 2
+4, 4o SI, 1
+5, 5o SI, 2
+6, 6o SI, 1
+7, 7o SI, 2
+8, 1o EP, 1
+9, 2o EP, 2
+10, 3o EP, 1
+11, 4o EP, 2
+12, 5o EP, 1
+13, 6o EP, 2
+14, 7o EP, 1
+15, 8o EP, 2
+16, 10o EP, 2
+17, 1o EE, 2
+18, 2o EE, 1
+19, 3o EE, 2
+20, 4o EE, 1
+21, 1o EC, 1
+22, 2o EC, 2
+23, 3o EC, 1
+24, 4o EC, 2
+
+CLASSES:
+1144, Teoria Geral da Administração, 1, 4, 2, 3, 50, 1
+1145, Teoria e Fundamentos de Sistemas de Informação, 1, 4, 2, 3, 50, 2
+1160, Cálculo Diferencial e Integral I, 1, 4, 2, 3, 50, 3
+1420, Matemática Discreta I, 1, 4, 2, 3, 50, 4
+1030, Programação de Computadores I, 1, 4, 2, 3, 45, 5
+1307, Estatística e Probabilidade, 2, 4, 2, 3, 50, 6
+1412, Aspectos Formais da Computação, 2, 4, 2, 3, 50, 7
+1422, Organização e Arquitetura de Computadores I, 2, 4, 2, 3, 50, 8
+1032, Programação de Computadores II, 2, 4, 2, 3, 50, 5
+1428, Algoritmos e Estrutura de Dados I, 2, 4, 2, 3, 50, 9
+1429, Algoritmos e Estrutura de Dados II, 3, 4, 2, 3, 50, 8
+1450, Interação Humano-Computador, 3, 4, 2, 3, 50, 10
+1456, Teoria e Algoritmos em Grafos, 3, 4, 2, 3, 50, 9
+1460, Gestão da Informação, 3, 4, 2, 3, 50, 2
+1473, Comportamento Organizacional, 3, 4, 2, 3, 50, 1
+1150, Economia, 4, 4, 2, 3, 50, 11
+1419, Linguagens de Programação, 4, 4, 2, 3, 50, 12
+1437, Sistemas Operacionais, 4, 4, 2, 3, 50, 13
+1440, Banco de Dados I, 4, 4, 2, 3, 50, 14
+1485, Engenharia de Software I, 4, 4, 2, 3, 50, 15
+1406, Pesquisa Operacional I, 5, 4, 2, 3, 50, 16
+1442, Banco de Dados II, 5, 4, 2, 3, 50, 14
+1457, Inteligência Artificial, 5, 4, 2, 3, 50, 17
+1459, Redes de Computadores I, 5, 4, 2, 3, 50, 13
+1486, Engenharia de Software II, 5, 4, 2, 3, 50, 15
+1433, Sistemas Distribuídos, 6, 4, 2, 3, 50, 13
+1439, Gestão da Tecnologia da Informação, 6, 4, 2, 3, 50, 18
+1469, Sistemas para WEB, 6, 4, 2, 3, 50, 19
+1487, Gerência de Config. e de Eng. de Software, 6, 4, 2, 3, 50, 10
+1520, (E) Tópicos em Inteligência Artificial, 6, 4, 2, 3, 50, 20
+1126, Gerência de Recursos Humanos, 7, 4, 1, 3, 50, 1
+1458, Metodologia de Pesquisa, 7, 2, 1, 2, 50, 18
+1472, Inteligência Computacional para Otimização, 7, 4, 2, 3, 50, 17
+1491, Informática e Sociedade, 7, 2, 1, 2, 50, 18
+1513, (E) Tópicos em Desenvolvimento de Sistemas I, 7, 4, 2, 3, 50, 19
+1509, (E) Organização e Arquitetura de Computadores II, 7, 4, 1, 3, 50, 21
+1519, (E) Tópicos em Sistemas de Informação II, 7, 4, 2, 3, 50, 22
+2100, Introdução à Engenharia de Produção, 8, 2, 1, 2, 50, 23
+2101, Introdução à Metodologia de Pesquisa, 8, 2, 1, 2, 50, 23
+2031, Química Geral, 8, 6, 3, 3, 50, 24
+2160, Cálculo Diferencial e Integral I, 8, 4, 2, 3, 50, 25
+2001, Geometria Analítica e Álgebra Linear, 8, 4, 2, 3, 50, 26
+2030, Programação de Computadores I, 8, 4, 1, 3, 50, 19
+2002, Responsabilidade Social Ética e sustentabilidade, 9, 4, 2, 3, 50, 27
+2301, Cálculo Diferencial e Integral II, 9, 4, 2, 3, 50, 28
+2032, Programação de Computadores II, 9, 4, 2, 3, 50, 18
+2003, Física I, 9, 4, 2, 3, 50, 3
+2004, Expressão Gráfica, 9, 4, 2, 3, 50, 29
+2005, Ergonomia, 10, 4, 2, 3, 50, 30
+2006, Cálculo Diferencial e Integral III, 10, 4, 2, 3, 50, 31
+2007, Física II, 10, 4, 2, 3, 50, 32
+2008, Mecânica Racional, 10, 4, 2, 3, 50, 33
+2009, Fundamentos de Sistemas de Informação, 10, 4, 2, 3, 50, 2
+2010, Equações Diferenciais, 11, 4, 2, 3, 50, 34
+2011, Análise Ergonômica do Trabalho, 11, 4, 2, 3, 50, 35
+2012, Probabilidade, 11, 4, 2, 3, 50, 36
+2404, Cálculo Numérico, 11, 4, 2, 3, 50, 6
+2013, Física III, 11, 4, 2, 3, 50, 37
+2014, Organização do Trabalho, 12, 4, 2, 3, 50, 30
+2015, Microeconomia, 12, 4, 2, 3, 50, 38
+2016, Resistência dos Materiais, 12, 4, 2, 3, 50, 48
+2017, Teoria das Organizações, 12, 4, 2, 3, 50, 39
+2127, Planejamento Estratégico, 12, 4, 2, 3, 50, 40
+2019, Psicologia do Trabalho, 13, 4, 2, 3, 50, 35
+2020, Estatística, 13, 4, 2, 3, 50, 26
+2021, Termodinâmica, 13, 4, 2, 3, 50, 41
+2023, Engenharia Econômica, 13, 4, 2, 3, 50, 38
+2700, Princípios de Ciências de Materiais, 13, 4, 2, 3, 50, 24
+2022, Gestão da Qualidade, 14, 4, 2, 3, 50, 42
+2024, Custos e Contabilidade, 14, 4, 2, 3, 50, 11
+2025, Gestão do Conhecimento, 14, 4, 2, 3, 50, 39
+2110, Projeto do Produto, 14, 4, 2, 3, 50, 42
+2406, Pesquisa Operacional I, 14, 4, 2, 3, 50, 16
+2119, Logística, 15, 4, 1, 3, 50, 23
+2122, Planejamento e Controle de Produção I, 15, 4, 2, 3, 50, 40
+2416, Pesquisa Operacional II, 15, 4, 1, 3, 50, 11
+2701, Engenharia de Processos Mecânicos, 15, 4, 2, 3, 50, 29
+2545, (E) Gestão da Inovação e Tecnologia, 15, 4, 2, 3, 50, 30
+2541, (E) Ergonomia das situações reais, 15, 4, 2, 3, 50, 35
+2018, Redes de Empresas, 16, 4, 1, 3, 50, 39
+2029, Gestão Ambiental, 16, 4, 1, 3, 50, 27
+2142, Administração Mercadológica, 16, 4, 2, 3, 50, 40
+2527, (E) Engenharia de Processos Riscos e Perdas, 16, 4, 2, 3, 50, 27
+2138, (E) Simulação de Eventos Discretos, 16, 4, 2, 3, 50, 38
+2141, (E) Controle estatístico de qualidade, 16, 4, 2, 3, 50, 42
+3160, Cálculo Diferencial e Integral I, 17, 4, 1, 3, 50, 25
+3001, Geometria Analítica e Álgebra Linear, 17, 4, 2, 3, 50, 4
+3031, Química Geral, 17, 6, 3, 3, 50, 43
+3030, Programação de Computadores I, 17, 4, 2, 3, 50, 10
+3458, Metodologia de Pesquisa, 17, 2, 1, 2, 50, 44
+3202, Introdução a Engenharia Eletrica, 17, 2, 1, 2, 50, 44
+3032, Programação de Computadores II, 18, 4, 2, 3, 50, 22
+3999, Desenho Computacional, 18, 4, 2, 3, 50, 44
+3003, Física I, 18, 4, 2, 3, 50, 41
+3301, Cálculo Diferencial e Integral II, 18, 4, 2, 3, 50, 28
+3422, Organização e Arquitetura de Computadores I, 18, 4, 2, 3, 50, 21
+3006, Cálculo Diferencial e Integral III, 19, 4, 2, 3, 50, 36
+3007, Física II, 19, 4, 2, 3, 50, 45
+3008, Mecânica Racional, 19, 4, 2, 3, 50, 32
+3302, Introd. às Equações Diferenciais e Ordinárias, 19, 4, 2, 3, 50, 31
+3307, Estatística e Probabilidade, 19, 4, 2, 3, 50, 6
+3013, Física III, 20, 4, 2, 3, 50, 48
+3552, Circuitos Elétricos I, 20, 4, 2, 3, 50, 45
+3341, Princípios de Eletrônica Digital, 20, 4, 2, 3, 50, 33
+3342, Métodos Matemáticos Aplicados à Eng. Elétrica, 20, 4, 2, 3, 50, 25
+3404, Cálculo Numérico, 20, 4, 2, 3, 50, 21
+4160, Cálculo Diferencial e Integral I, 21, 4, 2, 3, 50, 3
+4001, Geometria Analítica e Algebra Linear, 21, 4, 2, 3, 50, 4
+4031, Química Geral, 21, 6, 3, 3, 50, 43
+4030, Programação de Computadores I, 21, 4, 1, 3, 50, 22
+4458, Metodologia de Pesquisa, 21, 2, 1, 2, 50, 20
+4201, Introdução a Engenharia da Computação, 21, 2, 1, 2, 50, 20
+4032, Programação de Computadores II, 22, 4, 2, 3, 50, 15
+4428, Algoritmos e Estruturas de Dados I, 22, 4, 2, 3, 50, 8
+4003, Física I, 22, 4, 2, 3, 50, 41
+4301, Cálculo Diferencial e Integral II, 22, 4, 1, 3, 50, 36
+4420, Matemática Discreta I, 22, 4, 1, 3, 50, 7
+4999, Geometria Analítica e Algebra Linear (Extra), 22, 4, 2, 3, 50, 46
+4006, Cálculo Diferencial e Integral III, 23, 4, 1, 3, 50, 34
+4007, Física II, 23, 4, 2, 3, 50, 32
+4307, Estatística e Probabilidade, 23, 4, 2, 3, 50, 26
+4429, Algoritmos e Estruturas de Dados II, 23, 4, 1, 3, 50, 47
+4412, Aspectos Formais da Computação, 23, 4, 2, 3, 50, 7
+4998, Algoritmos e Estruturas de Dados I (Extra), 23, 4, 2, 3, 50, 17
+4013, Física III, 24, 4, 2, 3, 50, 37
+4302, Introd. às Equações Diferenciais Ordinárias, 24, 4, 1, 3, 50, 46
+4341, Princípios de Eletrônica Digital, 24, 4, 2, 3, 50, 33
+4650, Circuitos I, 24, 4, 1, 3, 50, 45
+4419, Linguagens de Programação, 24, 4, 2, 3, 50, 12
+4997, Algoritmos e Estruturas de Dados II (Extra), 24, 4, 2, 3, 50, 47
+
+SALAS:
+1, B204, 50
+2, B302, 50
+3, B303, 50
+4, B304, 50
+5, D202, 50
+6, D203, 50
+7, D204, 50
+8, D304, 50
+9, E203, 50
+10, E204, 50
+11, E302, 50
+12, E303, 50
+13, E304, 50
+
+FIM.

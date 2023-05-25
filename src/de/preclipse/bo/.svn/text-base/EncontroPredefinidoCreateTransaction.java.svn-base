@@ -1,0 +1,31 @@
+package de.preclipse.bo;
+
+import java.util.Date;
+import org.prevayler.TransactionWithQuery;
+
+import de.preclipse.bo.Restricao;
+
+public class EncontroPredefinidoCreateTransaction implements
+	TransactionWithQuery {
+
+	private static final long serialVersionUID = 1L;
+	private Restricao restricao;
+    private String codigo;
+    private int siape;
+
+    public EncontroPredefinidoCreateTransaction(Restricao restricao, String codigo, int siape) {
+	    this.restricao = restricao;
+	    this.codigo = codigo;
+	    this.siape = siape;
+    }
+
+    public EncontroPredefinidoCreateTransaction() {
+	//default constructor needed for xml serialisation
+    }
+
+    public Object executeAndQuery(Object prevalentSystem, Date executionTime)
+	    throws Exception {
+    	return ((PrevalentSystem)prevalentSystem).addEncontroPredefinido(restricao, codigo, siape);
+    }
+
+}

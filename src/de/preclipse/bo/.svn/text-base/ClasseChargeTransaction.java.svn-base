@@ -1,0 +1,43 @@
+package de.preclipse.bo;
+
+import java.util.Date;
+import org.prevayler.TransactionWithQuery;
+
+public class ClasseChargeTransaction implements TransactionWithQuery {
+
+	private static final long serialVersionUID = 1L;
+	private String codigo;
+	private String nome;
+	private String curso;
+	private int cargaHoraria;
+	private int periodo;
+	private Restricao[] restricoes;
+
+	public ClasseChargeTransaction(String codigo, String nome, String curso, 
+			int cargaHoraria, int periodo, Restricao[] restricoes) {
+		this.codigo = codigo;
+		this.nome = nome;
+		this.curso = curso;
+		this.cargaHoraria = cargaHoraria;
+		this.periodo = periodo;
+		this.restricoes = restricoes;
+	}
+
+	public ClasseChargeTransaction() {
+		//default constructor needed for xml serialisation
+	}
+
+	public Object executeAndQuery(Object prevalentSystem, Date executionTime)
+	throws Exception {
+		PrevalentSystem prevayler = (PrevalentSystem)prevalentSystem;
+    	Classe c = prevayler.getClasse(codigo);
+    	c.setCodigo(codigo);
+    	c.setNome(nome);
+    	c.setCurso(curso);
+    	c.setCargaHoraria(cargaHoraria);
+    	c.setPeriodo(periodo);
+    	c.setRestricoes(restricoes);
+		return c;
+	}
+
+}
